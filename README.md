@@ -6,4 +6,4 @@ Author: Russ Renzas
 Language: C#
 IDE Used: Visual Studio Express 2012
 
-Open sourced WITH PERMISSION, because original company it was used at closed (much to my dismay).
+Open sourced WITH PERMISSION.
